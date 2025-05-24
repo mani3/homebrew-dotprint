@@ -1,8 +1,8 @@
 class Dotprint < Formula
   desc "A command-line tool to render text using bitmap fonts from BDF files."
   homepage "https://github.com/mani3/dotprint"
-  url "https://github.com/mani3/dotprint/releases/download/0.1.0/dotprint-0.1.0-arm64-darwin.tar.gz"
-  sha256 "f9f87c59b3d44bcdd0d5303928c7893b1b300c0723d572d21305abf0d5f95ebe"
+  url "https://github.com/mani3/homebrew-dotprint/releases/download/v/dotprint--x86_64-apple-darwin.tar.gz"
+  sha256 ""
   version "0.1.0"
 
   def install
